@@ -74,13 +74,3 @@ A curated collection of 10 hands-on data science and machine learning projects r
 * **Stack:** Python, Jupyter, Scikit-Learn, PyTorch, YOLOv8, Pandas, XGBoost.
 
 ---
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=I-S-Ashwin&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-S-Ashwin&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</p>
