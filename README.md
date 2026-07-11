@@ -1,7 +1,7 @@
 # Hi there, I'm Ashwin I S 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&width=435&lines=Full-Stack+Web+Developer;Exploring+AI+%26+Machine+Learning;Building+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&width=435&lines=Exploring+AI+%26+Machine+Learning;Full-Stack+Web+Developer;Exploring+AI+%26+Machine+Learning;Building+Scalable+Solutions" alt="Typing SVG" />
 </div>
 
 <p align="center">
