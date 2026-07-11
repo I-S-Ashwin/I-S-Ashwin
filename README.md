@@ -17,7 +17,7 @@
 
 ### 🎓 About Me
 
-I am a passionate **Full-Stack Web Developer** and student at **Panimalar Engineering College** based in Chennai, India. I specialize in building highly responsive, secure, and visually appealing web applications, while actively exploring data science, machine learning, and cloud backend architectures.
+I am a passionate **Full-Stack Web & AI Developer** and student at **Panimalar Engineering College** based in Chennai, India. I specialize in building highly responsive, secure, and visually appealing web applications, while actively exploring data science, machine learning, and cloud backend architectures.
 
 * 🛠️ **Current Focus:** Advanced Next.js, Server Actions, and Appwrite backend architecture.
 * 🧠 **AI/ML Focus:** Developing, testing, and deploying computer vision and anomaly detection models.
